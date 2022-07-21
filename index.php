@@ -29,9 +29,9 @@
             <label for="especialidad" class="form-label">Especialidad</label>
             <select class="form-select" id="especialidad" name="especialidad">
                 <option selected>...</option>
-                <option value="Desarrollador FrontEnd">Desarrollador FrontEnd</option>
-                <option value="2">Desarrollador BackEnd</option>
-                <option value="3">Desarrollador Fullstack</option>
+                <option value="1">Desarrollador FrontEnd</option>
+                <option >Desarrollador BackEnd</option>
+                <option >Desarrollador Fullstack</option>
             </select>
            
         </div>
